@@ -28,5 +28,5 @@ Upload `tezos-tears.zip` at Teia mint page and test the preview.
 
 ## Notes
 
-- Live data: `https://api.tzkt.io/v1/operations/transactions` (polled every ~2.5s).\n+- If the network is blocked or fails, the sketch automatically switches to a lightweight **demo mode** spawner so the piece still animates.
-
+- Live data: `https://api.tzkt.io/v1/operations/transactions` (polled every ~2.5s).
+- If the network is blocked or fails, the sketch automatically switches to a lightweight **demo mode** spawner so the piece still animates.
